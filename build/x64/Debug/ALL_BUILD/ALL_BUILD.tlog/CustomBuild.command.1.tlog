@@ -1,0 +1,10 @@
+^D:\7СЕМЕСТР\ОПЕРАЦИОНКИ\LABS\LAB1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/7семестр/операционки/labs/lab1 -BD:/7семестр/операционки/labs/lab1/build --check-stamp-file D:/7семестр/операционки/labs/lab1/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\7СЕМЕСТР\ОПЕРАЦИОНКИ\LABS\LAB1\BUILD\CMAKEFILES\AC16C865D9FF66701717F76B3FD69217\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/7семестр/операционки/labs/lab1 -BD:/7семестр/операционки/labs/lab1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/7семестр/операционки/labs/lab1/build/HelloWorld.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
