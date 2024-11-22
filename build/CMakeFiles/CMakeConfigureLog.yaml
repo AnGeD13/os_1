@@ -26,8 +26,8 @@ events:
       Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
       (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
       
-      Сборка начата 22.11.2024 18:01:01.
-      Проект "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdC\\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
+      Сборка начата 22.11.2024 21:49:04.
+      Проект "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdC\\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
       PrepareForBuild:
         Создание каталога "Debug\\".
         Создание каталога "Debug\\CompilerIdC.tlog\\".
@@ -38,7 +38,7 @@ events:
         CMakeCCompilerId.c
       Link:
         C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdC\\CompilerIdC.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -46,13 +46,13 @@ events:
       FinalizeBuildStatus:
         Файл "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" удаляется.
         Обращение к "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
-      Сборка проекта "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdC\\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
+      Сборка проекта "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdC\\CompilerIdC.vcxproj" завершена (целевые объекты по умолчанию).
       
       Сборка успешно завершена.
           Предупреждений: 0
           Ошибок: 0
       
-      Прошло времени 00:00:01.88
+      Прошло времени 00:00:01.19
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -60,7 +60,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        D:/7семестр/операционки/labs/lab1/build/CMakeFiles/3.31.0/CompilerIdC/CompilerIdC.exe
+        D:/7semestr/os/labs/lab1/build/CMakeFiles/3.31.0/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "message-v1"
@@ -80,8 +80,8 @@ events:
       Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
       (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
       
-      Сборка начата 22.11.2024 18:01:03.
-      Проект "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
+      Сборка начата 22.11.2024 21:49:05.
+      Проект "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
       PrepareForBuild:
         Создание каталога "Debug\\".
         Создание каталога "Debug\\CompilerIdCXX.tlog\\".
@@ -92,7 +92,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -100,13 +100,13 @@ events:
       FinalizeBuildStatus:
         Файл "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" удаляется.
         Обращение к "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
-      Сборка проекта "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
+      Сборка проекта "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\3.31.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj" завершена (целевые объекты по умолчанию).
       
       Сборка успешно завершена.
           Предупреждений: 0
           Ошибок: 0
       
-      Прошло времени 00:00:01.49
+      Прошло времени 00:00:00.91
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -114,7 +114,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        D:/7семестр/операционки/labs/lab1/build/CMakeFiles/3.31.0/CompilerIdCXX/CompilerIdCXX.exe
+        D:/7semestr/os/labs/lab1/build/CMakeFiles/3.31.0/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "try_compile-v1"
@@ -125,8 +125,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/7\u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-u279v6"
-      binary: "D:/7\u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-u279v6"
+      source: "D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-2mk2ah"
+      binary: "D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-2mk2ah"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -135,39 +135,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/7семестр/операционки/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-u279v6'
+        Change Dir: 'D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-2mk2ah'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_5919a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_4613e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
         (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
         
-        Сборка начата 22.11.2024 18:01:06.
-        Проект "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u279v6\\cmTC_5919a.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        Сборка начата 22.11.2024 21:49:06.
+        Проект "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2mk2ah\\cmTC_4613e.vcxproj" в узле 1 (целевые объекты по умолчанию).
         PrepareForBuild:
-          Создание каталога "cmTC_5919a.dir\\Debug\\".
-          Создание каталога "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u279v6\\Debug\\".
-          Создание каталога "cmTC_5919a.dir\\Debug\\cmTC_5919a.tlog\\".
+          Создание каталога "cmTC_4613e.dir\\Debug\\".
+          Создание каталога "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2mk2ah\\Debug\\".
+          Создание каталога "cmTC_4613e.dir\\Debug\\cmTC_4613e.tlog\\".
         InitializeBuildStatus:
-          Создание "cmTC_5919a.dir\\Debug\\cmTC_5919a.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Создание "cmTC_4613e.dir\\Debug\\cmTC_4613e.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5919a.dir\\Debug\\\\" /Fd"cmTC_5919a.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4613e.dir\\Debug\\\\" /Fd"cmTC_4613e.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30154 для x64
           (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5919a.dir\\Debug\\\\" /Fd"cmTC_5919a.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4613e.dir\\Debug\\\\" /Fd"cmTC_4613e.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u279v6\\Debug\\cmTC_5919a.exe" /INCREMENTAL /ILK:"cmTC_5919a.dir\\Debug\\cmTC_5919a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/7семестр/операционки/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-u279v6/Debug/cmTC_5919a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/7семестр/операционки/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-u279v6/Debug/cmTC_5919a.lib" /MACHINE:X64  /machine:x64 cmTC_5919a.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_5919a.vcxproj -> D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u279v6\\Debug\\cmTC_5919a.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2mk2ah\\Debug\\cmTC_4613e.exe" /INCREMENTAL /ILK:"cmTC_4613e.dir\\Debug\\cmTC_4613e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-2mk2ah/Debug/cmTC_4613e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-2mk2ah/Debug/cmTC_4613e.lib" /MACHINE:X64  /machine:x64 cmTC_4613e.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_4613e.vcxproj -> D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2mk2ah\\Debug\\cmTC_4613e.exe
         FinalizeBuildStatus:
-          Файл "cmTC_5919a.dir\\Debug\\cmTC_5919a.tlog\\unsuccessfulbuild" удаляется.
-          Обращение к "cmTC_5919a.dir\\Debug\\cmTC_5919a.tlog\\cmTC_5919a.lastbuildstate".
-        Сборка проекта "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u279v6\\cmTC_5919a.vcxproj" завершена (целевые объекты по умолчанию).
+          Файл "cmTC_4613e.dir\\Debug\\cmTC_4613e.tlog\\unsuccessfulbuild" удаляется.
+          Обращение к "cmTC_4613e.dir\\Debug\\cmTC_4613e.tlog\\cmTC_4613e.lastbuildstate".
+        Сборка проекта "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2mk2ah\\cmTC_4613e.vcxproj" завершена (целевые объекты по умолчанию).
         
         Сборка успешно завершена.
             Предупреждений: 0
             Ошибок: 0
         
-        Прошло времени 00:00:01.39
+        Прошло времени 00:00:00.86
         
       exitCode: 0
   -
@@ -207,8 +207,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/7\u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-ep27m3"
-      binary: "D:/7\u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043a\u0438/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-ep27m3"
+      source: "D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-9zpweq"
+      binary: "D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-9zpweq"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -218,39 +218,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/7семестр/операционки/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-ep27m3'
+        Change Dir: 'D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-9zpweq'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_96996.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe" cmTC_613df.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
         (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
         
-        Сборка начата 22.11.2024 18:01:08.
-        Проект "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ep27m3\\cmTC_96996.vcxproj" в узле 1 (целевые объекты по умолчанию).
+        Сборка начата 22.11.2024 21:49:08.
+        Проект "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9zpweq\\cmTC_613df.vcxproj" в узле 1 (целевые объекты по умолчанию).
         PrepareForBuild:
-          Создание каталога "cmTC_96996.dir\\Debug\\".
-          Создание каталога "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ep27m3\\Debug\\".
-          Создание каталога "cmTC_96996.dir\\Debug\\cmTC_96996.tlog\\".
+          Создание каталога "cmTC_613df.dir\\Debug\\".
+          Создание каталога "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9zpweq\\Debug\\".
+          Создание каталога "cmTC_613df.dir\\Debug\\cmTC_613df.tlog\\".
         InitializeBuildStatus:
-          Создание "cmTC_96996.dir\\Debug\\cmTC_96996.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
+          Создание "cmTC_613df.dir\\Debug\\cmTC_613df.tlog\\unsuccessfulbuild", так как было задано "AlwaysCreate".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_96996.dir\\Debug\\\\" /Fd"cmTC_96996.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_613df.dir\\Debug\\\\" /Fd"cmTC_613df.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30154 для x64
           (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_96996.dir\\Debug\\\\" /Fd"cmTC_96996.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_613df.dir\\Debug\\\\" /Fd"cmTC_613df.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ep27m3\\Debug\\cmTC_96996.exe" /INCREMENTAL /ILK:"cmTC_96996.dir\\Debug\\cmTC_96996.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/7семестр/операционки/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-ep27m3/Debug/cmTC_96996.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/7семестр/операционки/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-ep27m3/Debug/cmTC_96996.lib" /MACHINE:X64  /machine:x64 cmTC_96996.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_96996.vcxproj -> D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ep27m3\\Debug\\cmTC_96996.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9zpweq\\Debug\\cmTC_613df.exe" /INCREMENTAL /ILK:"cmTC_613df.dir\\Debug\\cmTC_613df.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-9zpweq/Debug/cmTC_613df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/7semestr/os/labs/lab1/build/CMakeFiles/CMakeScratch/TryCompile-9zpweq/Debug/cmTC_613df.lib" /MACHINE:X64  /machine:x64 cmTC_613df.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_613df.vcxproj -> D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9zpweq\\Debug\\cmTC_613df.exe
         FinalizeBuildStatus:
-          Файл "cmTC_96996.dir\\Debug\\cmTC_96996.tlog\\unsuccessfulbuild" удаляется.
-          Обращение к "cmTC_96996.dir\\Debug\\cmTC_96996.tlog\\cmTC_96996.lastbuildstate".
-        Сборка проекта "D:\\7семестр\\операционки\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ep27m3\\cmTC_96996.vcxproj" завершена (целевые объекты по умолчанию).
+          Файл "cmTC_613df.dir\\Debug\\cmTC_613df.tlog\\unsuccessfulbuild" удаляется.
+          Обращение к "cmTC_613df.dir\\Debug\\cmTC_613df.tlog\\cmTC_613df.lastbuildstate".
+        Сборка проекта "D:\\7semestr\\os\\labs\\lab1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9zpweq\\cmTC_613df.vcxproj" завершена (целевые объекты по умолчанию).
         
         Сборка успешно завершена.
             Предупреждений: 0
             Ошибок: 0
         
-        Прошло времени 00:00:01.35
+        Прошло времени 00:00:00.86
         
       exitCode: 0
   -

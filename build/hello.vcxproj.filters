@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\7семестр\операционки\labs\lab1\main.c">
+    <ClCompile Include="D:\7semestr\os\labs\lab1\main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\7семестр\операционки\labs\lab1\print.c">
+    <ClCompile Include="D:\7semestr\os\labs\lab1\print.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\7семестр\операционки\labs\lab1\CmakeLists.txt" />
+    <CustomBuild Include="D:\7semestr\os\labs\lab1\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{D2081022-2ECD-3B57-B25E-0F86C8AE4FB7}</UniqueIdentifier>
+      <UniqueIdentifier>{C4DEE7A4-15DC-3EF1-84C5-C6CCB0D04E41}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

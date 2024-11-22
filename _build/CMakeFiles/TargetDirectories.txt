@@ -1,3 +1,0 @@
-D:/7семестр/операционки/labs/lab1/_build/CMakeFiles/hello.dir
-D:/7семестр/операционки/labs/lab1/_build/CMakeFiles/ALL_BUILD.dir
-D:/7семестр/операционки/labs/lab1/_build/CMakeFiles/ZERO_CHECK.dir
